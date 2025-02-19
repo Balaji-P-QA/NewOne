@@ -11,4 +11,10 @@ public class Login {
 
 	}
 
+	private void branch() {
+
+		System.out.println("For bracnh");
+
+	}
+
 }
